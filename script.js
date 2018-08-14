@@ -1,5 +1,5 @@
 //  TEN ADRES JEST WADLIWY - ZWRACA BŁĄD 404
-var url = 'https://restcountries.eu/rest/v1/name/';
+var url = 'https://restcountries.eu/rest/v2/name/';
 
 var countriesList = document.getElementById('countries');
 
